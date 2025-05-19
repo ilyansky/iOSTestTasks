@@ -8,4 +8,5 @@
 - Менеджер зависимостей: SPM
 
 # Демо
-https://github.com/user-attachments/assets/7b259995-771c-486f-8031-1905d83e6348
+https://github.com/user-attachments/assets/d678114c-6f8c-4794-bc87-5e7438561d89
+
